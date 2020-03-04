@@ -1,0 +1,26 @@
+[
+  {
+    "id": {
+      "scope": "bit.envs",
+      "name": "bundlers/vue"
+    },
+    "isSymlink": false,
+    "hash": "bfc6b3dffe3103a5c902adbc75aca432dc3f4e3d"
+  },
+  {
+    "id": {
+      "scope": null,
+      "name": "small-bar-graph"
+    },
+    "isSymlink": true,
+    "hash": "f984540c187850dc3ce3feb95c8a3d3c2a4c7421"
+  },
+  {
+    "id": {
+      "scope": "xniffing.test",
+      "name": "small-bar-graph"
+    },
+    "isSymlink": false,
+    "hash": "1bbed8ade0686b1e0202c5df510c4957a88cee9c"
+  }
+]
